@@ -124,12 +124,12 @@
 <br>
 
 <h3 align="left">🖥️ Github Stats:</h3>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oraonshivam21&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" alt="oraonshivam21" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oraonshivam21&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="400" alt="oraonshivam21" />
 </p>
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=oraonshivam21&show_icons=true&locale=en&theme=tokyonight" width="500" alt="oraonshivam21" />
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=oraonshivam21&show_icons=true&locale=en&theme=tokyonight" width="500" alt="oraonshivam21" />
 </p>
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oraonshivam21&theme=tokyonight" width="500" alt="oraonshivam21" />
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=oraonshivam21&theme=tokyonight" width="500" alt="oraonshivam21" />
 </p>
