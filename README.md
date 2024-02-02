@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Redis, AWS, and Passport**
 
-- 👨‍💻 All of my projects are available at [https://OraonShivam21.github.io/](https://OraonShivam21.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://OraonShivam21.github.io/)
 
 - 💬 Ask me about **react, node.js, mongodb**
 
