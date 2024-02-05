@@ -27,7 +27,7 @@
 
 <hr>
 
-<h3 align="center">📬 Connect with me:</h3>
+<h3 align="left">📬 Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shivam-oraon-3b5790284" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam-oraon-3b5790284" height="40" width="50" /></a>
 <a href="https://codepen.io/@shivam-oraon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shivam-oraon" height="40" width="50" /></a>
