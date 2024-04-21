@@ -5,7 +5,7 @@
 <hr>
 
 
-- 🔭 I’m currently working on [blue-whisper-app](https://github.com/OraonShivam21/blue-whisper-app)
+- 🔭 I’m currently working on [Blog-Web-App](https://github.com/OraonShivam21/blog-web-app)
 
 - 🌱 I’m currently learning **Redis, AWS, and Passport**
 
