@@ -5,7 +5,7 @@
 <hr>
 
 
-- 🔭 I’m currently working on [Blog-Web-App](https://github.com/OraonShivam21/blog-web-app)
+- 🔭 I’m currently working on [Talent Trove App](https://talent-trove-app.onrender.com/)
 
 - 🌱 I’m currently learning **Redis, AWS, and Passport**
 
