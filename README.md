@@ -5,9 +5,9 @@
 <hr>
 
 
-- 🔭 I’m currently working on [Talent Trove App](https://talent-trove-app.onrender.com/)
+- 🔭 I’m currently working on [Whispr Chat App](https://github.com/OraonShivam21/whispr-chat-app)
 
-- 🌱 I’m currently learning **Redis, AWS, and Passport**
+- 🌱 I’m currently learning **Redux, Passport, Material UI**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://OraonShivam21.github.io/)
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [profile-resume](https://drive.google.com/file/d/1FTnZPJ1KmoCWW_vjSby339VQBA0UsBPk/view?usp=sharing)
 
-- ⚡ Fun facts: *I like watching moto-vlogs in YouTube and anime, reading manga and light novels, love music and beatboxing.*
+- ⚡ Fun facts: *I like watching moto-vlogs on YouTube and anime, reading manga and light novels, and love music and beatboxing.*
 
 <hr>
 
